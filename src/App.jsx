@@ -25,7 +25,7 @@ const GAMES = [
   {
     icon:'🔢', name:'1A2B 終極密碼',
     desc:'猜出4位不重複數字，綠色位置對，黃色數字存在，挑戰你的邏輯！',
-    url:'https://1a2b-game-meqh-9ri7mjc24-yu-hung2003s-projects.vercel.app',
+    url:'https://1a2b-game-meqh.vercel.app',
     tag:'猜數字',
   },
   {
